@@ -10,7 +10,6 @@ I am using Google Collaboratory because GPU computing limitation from my PC, and
 I learned convolutional neural network theorem mainly from Stanford slides, and here is the link if you curious http://cs231n.stanford.edu/slides/2019/
 
 So, Why ResNet?
-
 Along any other neural networks like AlexNet, VGG, GoogleNet, etc. Residual Net (ResNet) win 2015 ILSVRC with error rate 3.6% even slightly better than recognition capabilities of human that is 5.1%. I have looked at them, the principal of ResNet is fairly easy to be applied.
 
 What's featured on my code:
